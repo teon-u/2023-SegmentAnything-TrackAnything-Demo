@@ -7,3 +7,6 @@ Jupyter Notebook 환경에서 초보자가 사용할 수 있는 예제가 없어
 
 
 ![image](https://github.com/teon-u/2023-SegmentAnything-TrackAnything-Demo/assets/89633138/fffc22f0-8705-4669-8ee0-ae07d14dd63e)
+
+
+고양이가 최고야
